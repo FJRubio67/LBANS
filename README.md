@@ -2,7 +2,7 @@
 
 ### Alessia Eletti, Giampiero Marra, Manuela Quaresma, Rosalba Radice, and [F. Javier Rubio](https://sites.google.com/site/fjavierrubio67/)
 
-This repository contains two real data examples of link-based additive net survival models based on the paper ``A unifying framework for flexible excess hazard modelling with applications in cancer epidemiology''. The models are fitted using the R package `GJRM`.
+This repository contains two real data examples of link-based additive net survival models based on the paper "A unifying framework for flexible excess hazard modelling with applications in cancer epidemiology". The models are fitted using the R package `GJRM`.
 
 1. The first example analyses the Simulacrum dataset (https://simulacrum.healthdatainsight.org.uk/) and focuses on differences in lung cancer survival according to different deprivation categories.
 
