@@ -19,6 +19,8 @@ The R code and outputs for this example are also available in RPubs at:
 
 The R code and outputs for this example are also available in RPubs at: 
 
+[A unifying framework for flexible excess hazard modelling with applications in cancer epidemiology: Leukemia data](https://rpubs.com/FJRubio/GJRMLeukSurv)
+
 
 ## Disclaimer
 The data provided here and the numerical results represent numerical illustrations of the methods proposed in "A unifying framework for flexible excess hazard modelling with applications in cancer epidemiology". These data and results should not be used to make epidemiological claims. 
