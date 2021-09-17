@@ -12,6 +12,9 @@ The models are fitted using the R package `GJRM`.
 
 The R code and outputs for this example are also available in RPubs at: 
 
+[A unifying framework for flexible excess hazard modelling with applications in cancer epidemiology: The Simulacrum](https://rpubs.com/FJRubio/SimulacrumLung)
+
+
 2. The second example analyses the `LeukSurv` dataset from the R package `spBayesSurv` and provides additional insight on how to model spatial components. Note, however, that we do not have access to life tables from those times based on the Townsend score so for the purpose of the example we used generic values of the population hazards based on more recent life tables.
 
 The R code and outputs for this example are also available in RPubs at: 
