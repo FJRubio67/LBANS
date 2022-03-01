@@ -24,3 +24,5 @@ The R code and outputs for this example are also available in RPubs at:
 
 ## Disclaimer
 The data provided here and the numerical results represent numerical illustrations of the methods proposed in "A unifying framework for flexible excess hazard modelling with applications in cancer epidemiology". These data and results should not be used to make epidemiological claims. 
+
+"Data for this study/project/report used artificial data from the Simulacrum, a synthetic dataset developed by Health Data Insight CiC derived from anonymous cancer data provided by the National Cancer Registration and Analysis Service, which is part of Public Health England."
