@@ -6,6 +6,8 @@ This repository contains two data examples of link-based additive net survival m
 
 > Eletti, A., Marra, G., Quaresma, M., Radice, R., and Rubio, F.J. (2022+). A unifying framework for flexible excess hazard modelling with applications in cancer epidemiology, Journal of the Royal Statistical Society: Series C, in press.
 
+[[Preprint](https://drive.google.com/file/d/1cCEJimis31nXM7LmXnbDOgYuFQ5miRpl/view)] [[Supplementary Material](https://drive.google.com/file/d/1qiYbHqtcrg6VAiFjsjSyREIf7hBsx76i/view)]
+
 The models are fitted using the R package `GJRM`.
 
 1. The first example analyses the Simulacrum dataset (https://simulacrum.healthdatainsight.org.uk/) and focuses on differences in lung cancer survival according to different deprivation categories.
