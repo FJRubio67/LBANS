@@ -4,9 +4,9 @@
 
 This repository contains two data examples of link-based additive net survival models based on the paper 
 
-> Eletti, A., Marra, G., Quaresma, M., Radice, R., and Rubio, F.J. (2022+). A unifying framework for flexible excess hazard modelling with applications in cancer epidemiology, Journal of the Royal Statistical Society: Series C, in press.
+> Eletti, A., Marra, G., Quaresma, M., Radice, R., and Rubio, F.J. (2022+). A unifying framework for flexible excess hazard modelling with applications in cancer epidemiology, Journal of the Royal Statistical Society: Series C, in press. https://doi.org/10.1111/rssc.12566
 
-[[Preprint](https://drive.google.com/file/d/1cCEJimis31nXM7LmXnbDOgYuFQ5miRpl/view)] [[Supplementary Material](https://drive.google.com/file/d/1qiYbHqtcrg6VAiFjsjSyREIf7hBsx76i/view)]
+[[Preprint](https://drive.google.com/file/d/1cCEJimis31nXM7LmXnbDOgYuFQ5miRpl/view)] [[Supplementary Material](https://drive.google.com/file/d/1qiYbHqtcrg6VAiFjsjSyREIf7hBsx76i/view)] [[Journal](https://doi.org/10.1111/rssc.12566)]
 
 The models are fitted using the R package `GJRM`.
 
